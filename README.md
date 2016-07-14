@@ -6,6 +6,6 @@ Innocent
 
 Shino
 
-Troy: Troy's modification
+Troy
 
 Moses
